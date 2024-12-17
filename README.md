@@ -21,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g1290-hik&show_icons=true&locale=en" alt="g1290-hik" /></p>
 <a href="https://app.daily.dev/gobind_singh17"><img src="https://api.daily.dev/devcards/v2/Y7qiGars3BtoEC4UPxqU6.png?type=wide&r=59s" width="652" alt="Gobind Singh's Dev Card"/></a>
-![LeetCode Stats](https://leetcard.jacoblin.cool/gobindsingh6799?theme=dark&font=Vollkorn)
 
